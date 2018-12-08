@@ -6,4 +6,6 @@ Create a new branch is quick AND simple
 dev branch   Fast forward 
 git Changed online
 
+git commit -am""
+
 
